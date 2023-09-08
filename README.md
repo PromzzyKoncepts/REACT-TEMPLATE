@@ -2,6 +2,8 @@
 
 <!--
 !!! IMPORTANT !!!
+Remove this line after reading it!
+
 This README is an example of how you could professionally present your codebase. 
 Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
 
@@ -30,7 +32,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://lmtechub.org/wp-content/uploads/2022/05/LM-LOGO-Final-web.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
